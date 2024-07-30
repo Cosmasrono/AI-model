@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Soil types",
+			"path": "../Downloads/Soil types"
+		},
+		{
+			"name": "model",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn==1.3.0
+streamlit
+Pillow
+openai
+python-dotenv
